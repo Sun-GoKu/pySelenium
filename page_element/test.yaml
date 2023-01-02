@@ -1,0 +1,6 @@
+username: abidal
+password: 123456
+hobby: ['music', 'reading', 'speak']
+userInfo: &userInfo
+  uid: 1001
+  tel: 13549367372
